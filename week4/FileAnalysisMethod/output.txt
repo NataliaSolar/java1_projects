@@ -1,5 +1,0 @@
-Numeric data file name: input.txt
-Number of integers: 5
-The total of all integers in file: 15
-The largest integer in the set: 5
-The smallest integer in the set: 1
